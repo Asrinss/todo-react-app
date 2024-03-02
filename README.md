@@ -19,12 +19,5 @@ Open the application.
 Add new tasks through the form.
 Use the respective icons to complete, edit, or delete tasks.
 
-# Installation
-Clone the repository: git clone https://github.com/username/to-do-app.git
-Navigate to the project directory: cd to-do-app
-Install dependencies: npm install
-Start the application: npm start
-
-
 License
 This project is licensed under the MIT License.
