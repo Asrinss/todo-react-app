@@ -2,10 +2,10 @@
 This project aims to develop a To-Do application to help users manage their tasks. Users can add, edit, complete, and delete tasks using this application.
 
 # Features
-Adding new tasks
-Editing tasks
-Completing tasks
-Deleting tasks
+Adding new tasks <br>
+Editing tasks   <br>
+Completing tasks <br>
+Deleting tasks <br>
 
 
 # Usage
