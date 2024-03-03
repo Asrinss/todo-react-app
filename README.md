@@ -7,12 +7,8 @@ Editing tasks
 Completing tasks
 Deleting tasks
 
-# Installation
 
-Clone this repository: git clone https://github.com/user/To-Do-App.git
-Navigate to the project directory: cd To-Do-App
-Install dependencies: npm install or yarn install
-Start the application: npm start or yarn start
+
 # Usage
 Start the application.
 Click the "Add New Task" button to add a new task.
