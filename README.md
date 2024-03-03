@@ -19,5 +19,5 @@ Open the application.
 Add new tasks through the form.
 Use the respective icons to complete, edit, or delete tasks.
 
-License
+# License
 This project is licensed under the MIT License.
