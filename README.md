@@ -1,23 +1,23 @@
-# To-Do-App
-This project is a To-Do application that allows users to manage their daily tasks. Users can add new tasks, mark existing tasks as complete, edit them, and delete them. The application is developed using React.js and provides a user-friendly interface with simple functionalities.
+# To-Do-App Project
+This project aims to develop a To-Do application to help users manage their tasks. Users can add, edit, complete, and delete tasks using this application.
 
 # Features
-Adding new tasks: Users can add new tasks through a form on the screen.
-Completing tasks: Users can mark tasks as complete or incomplete by checking or unchecking the checkbox next to the task.
-Editing tasks: Users can edit tasks by clicking on the edit icon next to the task.
-Deleting tasks: Users can delete tasks by clicking on the delete icon next to the task.
-User-friendly interface: The application provides a clean and simple interface that allows users to easily manage their tasks.
-Responsive design: The application is designed to be responsive and adapts well to different devices.
-Technologies Used
-React.js: Used for building the user interface.
-JavaScript: Used for the application logic and functionalities.
-CSS: Used for styling the user interface.
-FontAwesome: Used for task editing and deletion icons.
+Adding new tasks
+Editing tasks
+Completing tasks
+Deleting tasks
 
-# How to Use
-Open the application.
-Add new tasks through the form.
-Use the respective icons to complete, edit, or delete tasks.
+# Installation
+
+Clone this repository: git clone https://github.com/user/To-Do-App.git
+Navigate to the project directory: cd To-Do-App
+Install dependencies: npm install or yarn install
+Start the application: npm start or yarn start
+# Usage
+Start the application.
+Click the "Add New Task" button to add a new task.
+Check the box to complete a task.
+Click the respective buttons to edit or delete a task.
 
 # License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. For more information, please see the LICENSE file.
