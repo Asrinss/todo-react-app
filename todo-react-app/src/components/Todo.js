@@ -9,11 +9,11 @@ export const Todo = ({task, toggleComplete, deleteTodo, editTodo}) => {
     <div className='Todo'>
       <input
         type='checkbox'
-        checked={task.completed}
+        checked={task. completed}
         onChange={() => toggleComplete(task.id)}
         className='todo-checkbox'
       />
-      <p onClick={() => toggleComplete(task.id)} className={'${task.completed ? "completed": " "}' style={{text-decoration: task.completed ? 'line-through': 'none', opacity: task.completed? 0.5 : 1 }>{task.task}</p>
+      <p onClick={() => toggleComplete(task.id)} className={'${task.completed ? "completed": " "}'} style={{textDecoration: task.completed ? 'line-through': 'none', opacity: task.completed? 0.5 : 1 }}>{task.task}</p>
       <div>
          <FontAwesomeIcon className="edit-icon" icon={faPenToSquare} onClick={() => editTodo(task.id)}></FontAwesomeIcon>
          <FontAwesomeIcon className="delete-icon" icon={faTrash} onClick={() => deleteTodo(task.id)}></FontAwesomeIcon>
