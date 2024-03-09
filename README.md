@@ -14,7 +14,10 @@ Click the "Add New Task" button to add a new task.
 Check the box to complete a task.
 Click the respective buttons to edit or delete a task.
 
+
+![todoapp](https://github.com/Asrinss/todo-react-app/assets/98893650/0a1bb8e3-f9b9-4847-be17-7e0e463ec391)
+
+
+
 # License
 This project is licensed under the MIT License. For more information, please see the LICENSE file.
-
-
