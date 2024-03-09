@@ -17,4 +17,4 @@ Click the respective buttons to edit or delete a task.
 # License
 This project is licensed under the MIT License. For more information, please see the LICENSE file.
 
-![](todoapp.jpg)
+
