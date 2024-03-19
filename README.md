@@ -15,7 +15,7 @@ Check the box to complete a task.
 Click the respective buttons to edit or delete a task.
 
 
-![todoapp](https://github.com/Asrinss/todo-react-app/assets/98893650/0a1bb8e3-f9b9-4847-be17-7e0e463ec391)
+![Ekran Alıntısı](https://github.com/Asrinss/todo-react-app/assets/98893650/1bbf3456-9244-4bbd-a819-52f65376f846)
 
 
 
